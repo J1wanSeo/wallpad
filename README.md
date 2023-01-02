@@ -1,3 +1,9 @@
+# 설치되지 않는 문제를 해결한 것입니다.
+
+ 오직 Universal Wallpad에만 적용되어 있습니다.
+
+
+
 # Korean Community Add-ons for Hassio
  
  애드온 스토어에서 Repository URL을 `https://github.com/HAKorea/addons` 으로 입력하고 애드온을 추가하세요.
